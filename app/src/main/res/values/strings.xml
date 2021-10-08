@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HoweWork_1</string>
+    <string name="first_img_1">Homework1</string>
+    <string name="constant_screen_operation">Constant screen operation</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="touch_me">Touch ME!!!</string>
 </resources>
